@@ -1,16 +1,32 @@
-# helioalquiler
+Aplicación de Alquiler de Propiedades
+Aplicación móvil desarrollada con Flutter y Firebase para crear una plataforma de gestión y alquiler de propiedades.
 
-A new Flutter project.
+👨‍💻 Desarrollador
+Autor: Beder Casa Condori
 
-## Getting Started
+Ecosistema: VoltoraDevs
 
-This project is a starting point for a Flutter application.
+📝 Descripción
+Es una plataforma que permite a los usuarios buscar y gestionar el alquiler de propiedades. Los usuarios pueden registrarse, iniciar sesión, publicar sus propiedades, ver y reservar propiedades de otros usuarios, y gestionar sus favoritos y comentarios. La aplicación utiliza Firebase como backend para la autenticación de usuarios y el almacenamiento de datos.
 
-A few resources to get you started if this is your first Flutter project:
+🛠️ Tecnologías utilizadas
+(Authentication, Cloud Firestore)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+🧩 Provider (para gestión de estado)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+✨ Características principales
+🔑 Autenticación de usuarios (registro, inicio de sesión).
+
+🏘️ Publicación de propiedades con detalles, imágenes y servicios.
+
+🔍 Búsqueda y filtrado de propiedades por tipo, estado y rango de precios.
+
+🖼️ Visualización detallada de propiedades con información completa y galería de imágenes.
+
+❤️ Gestión de favoritos para guardar propiedades de interés.
+
+📅 Sistema de reservaciones para solicitar el alquiler de propiedades.
+
+💬 Sección de comentarios y calificaciones en cada propiedad.
+
+👤 Perfiles de usuario para ver y gestionar propiedades publicadas, reservaciones, favoritos y comentarios.
