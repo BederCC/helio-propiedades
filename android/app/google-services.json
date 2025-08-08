@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "860662831547",
+    "project_id": "nelio-alquiler",
+    "storage_bucket": "nelio-alquiler.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:860662831547:android:20f16fb71e81dd7d308c9e",
+        "android_client_info": {
+          "package_name": "com.example.helioalquiler"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoCzBBK2As3aYNsAjQV007uVv75BEkGIM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
