@@ -24,7 +24,9 @@ Es una plataforma que permite a los usuarios buscar y gestionar el alquiler de p
 -   ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 -   ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) (Authentication, Cloud Firestore)
 -   🧩 **Provider** (para gestión de estado)
-
+-   `firebase_core`: `^4.0.0`
+-   `firebase_auth`: `^6.0.0`
+-   `cloud_firestore`: `6.0.0`
 ## ✨ Características principales
 
 ---
